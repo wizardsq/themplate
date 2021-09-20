@@ -1,0 +1,30 @@
+{
+    "name": "w1zardtheme",
+    "displayName": "w1zardTheme",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "w1zardTheme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/w1zardTheme-color-theme.json"
+            }
+        ]
+    },
+    "author": {
+        "name": "w1zard",
+        "email": "w1z4rdsq@protonmail.com"
+    },
+    "repository": {
+        "url": "https://github.com/wizardsq/themplate.git",
+        "type": "git"
+    },
+    "publisher": "w1zard"
+}
